@@ -26,7 +26,7 @@ function ListProduct() {
             <h2 >Exercise - Project component list product</h2>
             <h4>Hasil:</h4>
               {produk.map(item => {
-                console.log(item);
+                // console.log(item);
                 //tanpa komponen dari ProductItem.js
                 // return <p key={item.id}>{item.name}</p>
                 

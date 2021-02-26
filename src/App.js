@@ -4,7 +4,11 @@ import ListProduct from './components/ListProduct';
 
 function App() {
   return (
-  <ListProduct/>
+    <div className="App">
+      <ListProduct/>
+      
+    </div>
+
 
     //default install
     // <div className="App">
